@@ -1,0 +1,36 @@
+/*Appliquer la couleur verte à tout les titres h1*/
+h1{
+    color:green;
+}
+
+/*Appliquer un fond blanc ,une couleur de texte grise et une police sans sérif à tout les éléments contenus dans la balise body*/    
+body{
+    background-color: #fffaf0;
+    color:#1f2a1f;
+    font-family:system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, sans-serif;
+}
+
+/*Centrer le texte dans l'entête de la page*/
+header{
+    text-align:center;
+}
+/*Appliquer la couleur verte et la taille de 2.5rem à tout les éléments de toutes les balises h1*/
+h1{
+    color:#2e7d32;
+    font-size:2.5rem;
+}
+/*Appliquer la couleur brune et une police à sérif appelé Times New Roman à toutes les balises h2*/
+h2{
+    color:#6d4c41;
+    font-family: Georgia, "Times New Roman", serif;
+}
+/*Les liens en vert et l'écriture en gras*/
+a{
+    color:#1b5e20;
+    font-weight:bold;
+}
+/*Les éléments du pied de page centrer et une petite taille de 0.9rem*/
+footer{
+    text-align:center;
+    font-size:0.9rem;
+}
